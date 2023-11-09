@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm Your Name - a GitHub user.
+
+## 📊 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 💼 Skills
+
+```javascript
+var skills = {
+  languages: ["JavaScript", "Python", "Java"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  tools: ["React", "Redux", "Node", "Docker"]
+};
