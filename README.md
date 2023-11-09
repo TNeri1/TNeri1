@@ -2,11 +2,10 @@
 
 I'm Trevor Neri - Your Friendly Neighborhood Software Developer.
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats + 🧑🏾‍💻 Coding Languages Used
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=9f9f9f)
 
-## 🧑🏾‍💻 Coding Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=9f9f9f)
 
 ## 👥 Visitor count
@@ -18,7 +17,7 @@ I'm Trevor Neri - Your Friendly Neighborhood Software Developer.
   </a>
 </p>
 
-About Me 😀
+## About Me 😀
 - 🔭 I’m currently working on a Computer Vision Apartment Door Opener
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on an ML-powered website with LangChain
