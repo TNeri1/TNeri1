@@ -1,8 +1,8 @@
-<a href="https://app.daily.dev/trevorneri"><img src="https://api.daily.dev/devcards/v2/2CYSo9zCyk5BiEQ1MWXe0.png?r=uwe&type=default" width="356" alt="Trevor Neri's Dev Card"/></a>
-
 ![Banner](https://github.com/TNeri1/TNeri1/assets/47682519/41c06f01-39b8-4b0f-bb83-469d91507f56)
 
 I'm Trevor Neri - Your Friendly Neighborhood Software Developer.
+
+<a href="https://app.daily.dev/trevorneri"><img src="https://api.daily.dev/devcards/v2/2CYSo9zCyk5BiEQ1MWXe0.png?r=uwe&type=default" width="356" alt="Trevor Neri's Dev Card"/></a>
 
 ## 📊 My GitHub Stats + 🧑🏾‍💻 Coding Languages Used
 
